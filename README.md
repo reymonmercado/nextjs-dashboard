@@ -1,2 +1,2 @@
-# app-router
+# nextjs-dashboard
 Next.js project
